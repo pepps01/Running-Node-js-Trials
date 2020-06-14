@@ -1,0 +1,25 @@
+*{
+    margin:auto;
+    padding: 0;
+}
+.container{
+    max-width: 1000;
+    width: 80%;
+}
+
+.ghost-input {
+    border:none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+input[type ='text' ]{
+    color: 'grey';
+    font-family: 'Century Gothic';
+}
+.ghost-button{
+    width: 100%;
+    padding:8px;
+}
